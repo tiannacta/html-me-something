@@ -1,0 +1,35 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 100%;
+}
+header h1 {
+	text-align: center;
+}
+h1 {
+    border: 5px solid red;
+  }
+  
+  section {
+    border: 5px solid red;
+  }
+  
+    
+section {
+    background-color: lightblue;
+  }
+
+p {
+    margin-top: 5px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  section {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+  }
+  
